@@ -7,8 +7,8 @@ services:
     environment:
       MYSQL_DATABASE: rediswithspring
       MYSQL_USER: heeseung
-      MYSQL_ROOT_PASSWORD: test1234
-      MYSQL_PASSWORD: test1234
+      MYSQL_ROOT_PASSWORD: fomuller@1350
+      MYSQL_PASSWORD: fomuller@1350
       container-name: "docker-mysql"
 
   redis-docker:
